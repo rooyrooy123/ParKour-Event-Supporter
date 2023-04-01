@@ -6,8 +6,7 @@ ParKour-Event-Supporter(以下「PKES」と表記)はマインクラフトjAVA�
 ・プラグインサーバー<br>
 **導入必須のプラグイン<br>
 ・Skript バージョン2.6.x https://github.com/SkriptLang/Skript/tree/2.6.4 <br>
-※バージョン2.6.xじゃないとおそらく機能しません。<br>
-**
+※バージョン2.6.xじゃないとおそらく機能しません。**<br>
 
 導入推奨プラグイン(導入しないと一部の機能は機能しません)<br>
 ・Skellett<br>
