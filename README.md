@@ -20,7 +20,7 @@ HIDE/SHOW<br>
 
 ・導入にあたって<br>
 導入するサーバーは以下の条件を満たしている必要があります。<br>
-・バージョン1.12.x<br>
+・**バージョン1.12.x**<br>
 ・プラグインサーバー<br>
 **導入必須のプラグイン<br>
 ・Skript バージョン2.6.x https://github.com/SkriptLang/Skript/tree/2.6.4 <br>
