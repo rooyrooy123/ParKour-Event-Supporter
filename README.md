@@ -1,7 +1,7 @@
 
 ParKour-Event-Supporter(以下「PKES」と表記)はマインクラフトJAVA版のアスレイベント企画を補助するのに便利な機能がそろっています。<br>
 
-**KPESダウンロード方法**<br>
+**PKESダウンロード方法**<br>
 **https://github.com/rooyrooy123/ParKour-Event-Supporter/releases/ から最新バージョンのPKESをダウンロードしてください。(souce codeなんちゃらってやつはダウンロードしなくてよい)<br>
 ダウンロードして解凍したら、「PKES_○○○○.sk」のようなファイルが複数個あると思います。<br>
 それらをすべて導入したい場所のplugin/Skript/scriptsフォルダに追加してください。**
@@ -26,5 +26,6 @@ ParKour-Event-Supporter(以下「PKES」と表記)はマインクラフトJAVA�
 
 導入は自己責任でお願いします。<br>
 何か問題が発生しても責任は負いかねますので予めご了承ください。<br>
+改変は自由としますが、二次配布、自作発言はおやめください。
 
 [開発者:(@ROOYROOY10)](https://twitter.com/ROOYROOY10)<br>
