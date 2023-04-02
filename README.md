@@ -24,8 +24,8 @@ HIDE/SHOW<br>
 ・**バージョン1.12.x**<br>
 ・プラグインサーバー<br>
 **導入必須のプラグイン**<br>
-**・Skript バージョン2.6.x https://github.com/SkriptLang/Skript/tree/2.6.4 **<br>
-**※バージョン2.6.xじゃないとおそらく機能しません。**<br>
+**・Skript バージョン2.6.x https://github.com/SkriptLang/Skript/tree/2.6.4 <br>
+※バージョン2.6.xじゃないとおそらく機能しません。**<br>
 
 **導入推奨プラグイン(導入しないと一部の機能は無効化されます)<br>
 ・Skellett<br>
