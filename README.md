@@ -15,7 +15,7 @@ HIDE/SHOW<br>
 **これ一つでアスレイベント企画の土台を構築できます！<br>**
 
 
-**PKESダウンロード方法**<br>
+## **・PKESダウンロード方法**<br>
 **https://github.com/rooyrooy123/ParKour-Event-Supporter/releases/ から最新バージョンのPKESをダウンロードしてください。(souce codeなんちゃらってやつはダウンロードしなくてよい)<br>
 ダウンロードして解凍したら、「PKES_○○○○.sk」のようなファイルが複数個あると思います。<br>
 それらをすべて導入したい場所のplugin/Skript/scriptsフォルダに追加してください。**
